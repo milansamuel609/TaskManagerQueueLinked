@@ -34,3 +34,7 @@ i) Uses Java's Queue interface with a LinkedList implementation to manage tasks.
 ii) Demonstrates basic queue operations: offer(), peek(), poll(), isEmpty(), and size().
 
 iii) Since queues do not support indexing, tasks are managed in a FIFO (First In First Out) order.
+
+## Developed By: 
+
+Milan P Samuel
